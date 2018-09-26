@@ -1,5 +1,7 @@
 jemdoc index.jemdoc
 jemdoc group.jemdoc
+jemdoc teaching.jemdoc
+jemdoc ACLab.jemdoc
 jemdoc list.jemdoc
 jemdoc DRL.jemdoc
 #python jemdoc.py home.jemdoc

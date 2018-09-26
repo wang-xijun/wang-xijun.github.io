@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, showsource
 = Xijun Wang 王玺钧
 
 ~~~
@@ -20,5 +20,5 @@ Office: Mingde Yuan, Xiaoguwei Island, Panyu District, Guangzhou, 510006, China.
 
 == News
 - 招收2019年推免研究生1名 [https://mp.weixin.qq.com/s/rqyccWO6MYIqx46Cu_AdtA \[报名信息\]]
-- July 2018, I have moved to SYSU. 
+- Since July 2018, I have moved to SYSU. 
 
