@@ -1,4 +1,5 @@
-jemdoc index.jemdoc
+#jemdoc index.jemdoc
+jemdoc -c mysite.conf index.jemdoc
 jemdoc group.jemdoc
 jemdoc teaching.jemdoc
 jemdoc ACLab.jemdoc
