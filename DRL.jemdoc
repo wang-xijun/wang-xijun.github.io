@@ -10,6 +10,7 @@ This page contains a list of the papers about the deep reinforcement learning, o
 . [https://simoninithomas.github.io/Deep_reinforcement_learning_Course/ /Deep reinforcement learning Course with Tensorflow/], by Thomas Simonini
 
 == Web Blog
+. [https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/ /DEMYSTIFYING DEEP REINFORCEMENT LEARNING/], by Tambet Matiisen, 2015
 . [https://flyyufelix.github.io/2017/10/12/dqn-vs-pg.html /Deep Q Network vs Policy Gradients/], by Felix Yu, 2017
 . [https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/ Deep Learning in a Nutshell: Reinforcement Learning]
 
