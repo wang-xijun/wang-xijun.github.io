@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{list.html}, showsource
+= Deep Reinforcement Learning
+
+This page contains a list of the papers about the deep reinforcement learning, organized in sections by subject.
+
+== Books & Courses
+. [http://incompleteideas.net/book/the-book-2nd.html /Reinforcement Learning: An Introduction/], by Richard S. Sutton and Andrew G. Barto, 2018
+. [http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html /UCL Course on reinforcement learning/], by David Silver, 2015
+. [http://rail.eecs.berkeley.edu/deeprlcourse/ /UC Berkeley Course on deep reinforcement learning/], by Sergey Levine, 2018
+. [https://simoninithomas.github.io/Deep_reinforcement_learning_Course/ /Deep reinforcement learning Course with Tensorflow/], by Thomas Simonini
+
+== Web Blog
+. [https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/ /DEMYSTIFYING DEEP REINFORCEMENT LEARNING/], by Tambet Matiisen, 2015
+. [https://flyyufelix.github.io/2017/10/12/dqn-vs-pg.html /Deep Q Network vs Policy Gradients/], by Felix Yu, 2017
+. [https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/ Deep Learning in a Nutshell: Reinforcement Learning]
+
+
+
+
+
+
