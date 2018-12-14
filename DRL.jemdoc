@@ -9,19 +9,34 @@ This page contains a list of the papers about the deep reinforcement learning, o
 . [http://rail.eecs.berkeley.edu/deeprlcourse/ /UC Berkeley Course on deep reinforcement learning/], by Sergey Levine, 2018
 . [https://simoninithomas.github.io/Deep_reinforcement_learning_Course/ /Deep reinforcement learning Course with Tensorflow/], by Thomas Simonini
 . [http://speech.ee.ntu.edu.tw/~tlkagk/talk.html /Deep Learning/], by Hung-yi Lee
+. [http://www.huaxiaozhuan.com/ /Machine Learning and Python/], by huaxiaozhuan
+
 == Web Blog
 . [https://github.com/dennybritz/reinforcement-learning /Implementation of Reinforcement Learning Algorithms/]
 . [https://flyyufelix.github.io/2017/10/12/dqn-vs-pg.html /Deep Q Network vs Policy Gradients/], by Felix Yu, 2017
-. [https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/ Deep Learning in a Nutshell: Reinforcement Learning]
+. [https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning /Deep Learning in a Nutshell: Reinforcement Learning/]
+
+== Reinforcement Learning
+. [https://zhuanlan.zhihu.com/p/25498081 /Markov Decision Process/]
+. [https://zhuanlan.zhihu.com/p/25580624 /Model-based RL/]
+. [https://zhuanlan.zhihu.com/p/25743759 /Model-free RL: Monte Carlo Method/]
+. [https://zhuanlan.zhihu.com/p/25913410 /Model-free RL: Time Difference Learning/]
+. [https://zhuanlan.zhihu.com/p/26007538 /Value Function Approximation/]
+. [https://zhuanlan.zhihu.com/p/26174099 /Policy Gradients/]
+. [https://zhuanlan.zhihu.com/p/26250938 /Gym-1/], 
+[https://zhuanlan.zhihu.com/p/26985029 /Gym-2/], [https://zhuanlan.zhihu.com/p/27100919 /Gym-3/],
+[https://zhuanlan.zhihu.com/p/28084990 /Gym-4/], [https://zhuanlan.zhihu.com/p/28086233 /Gym-5/],
+[https://zhuanlan.zhihu.com/p/28109312 /Gym-6/], [https://zhuanlan.zhihu.com/p/28133594 /Gym-7/]
 
 == DQN 
-. Q-Learning but with a Deep Neural Network as a function approximator
+Q-Learning but with a Deep Neural Network as a function approximator
 . [https://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/ /Demystifying Deep Reinforcement Learning/], by Tambet Matiisen, 2015
 . [https://www.nature.com/articles/nature14236, /Human-level control through deep reinforcement learning/], Nature, 2015
 . [https://github.com/deepmind/dqn /Torch implementation of Human-level control through deep reinforcement learning/], by deepmind
 . [https://github.com/devsisters/DQN-tensorflow /Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning/]
 
-
+== Multi-Agent RL
+. [https://zhuanlan.zhihu.com/p/39037444 /Note-1/], [https://zhuanlan.zhihu.com/p/43579796 /Note-2/]
 
 
 

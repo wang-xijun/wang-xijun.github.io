@@ -13,9 +13,20 @@ Introductory experimental laboratory explores the design, construction, and debu
 - Lab 05, [Handouts/ACLab/05-互补对称功率放大器.pdf 互补对称功率放大器]
 - Lab 06, [Handouts/ACLab/06-比例求和运算电路.pdf 比例求和运算电路]
 - Lab 07, [Handouts/ACLab/07-积分与微分电路.pdf 积分与微分电路]
+- Lab 08, [Handouts/ACLab/08-波形发生电路.pdf 波形发生电路]
+
+== Final Projects
+- 正弦波振荡器
+\n正弦波振荡电路是在没有外加输入信号的情况下，依靠电路自激振荡而产生正弦波输出电压的电路。
+广泛应用于通讯、广播、电视等系统，如无线电 通讯发射机中的载波产生电路、超外差接收机中的本机振荡电路等。
+\n本实验要求产生的正弦波振幅稳定，振荡频率在较宽范围内连续可调。先通过仿真软件验证电路功能。
+
+
 == Resources
+- [https://www.electronics-tutorials.ws /Electronics Tutorials/]
+- [https://wiki.analog.com/university/courses/electronics/labs /Lab Activity Material by AD/]
 - [http://web.mit.edu/6.101/www/s2018/index.html /MIT Course on Analog Electronics Lab/], by Gim Hom, 2018
-- [http://www.dwenzhao.cn/profession/proteus/proteus1.html /Proteus 虚拟仿真工具]
+- [http://www.dwenzhao.cn/profession/proteus/proteus1.html /Proteus 虚拟仿真工具/]
 
 
 

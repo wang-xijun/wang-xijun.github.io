@@ -5,6 +5,7 @@ jemdoc teaching.jemdoc
 jemdoc ACLab.jemdoc
 jemdoc list.jemdoc
 jemdoc DRL.jemdoc
+jemdoc SP.jemdoc
 #python jemdoc.py home.jemdoc
 #python jemdoc.py education.jemdoc
 #python jemdoc.py research.jemdoc
