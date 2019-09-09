@@ -16,6 +16,9 @@ This page contains a list of the papers about the deep reinforcement learning, o
 . [https://flyyufelix.github.io/2017/10/12/dqn-vs-pg.html /Deep Q Network vs Policy Gradients/], by Felix Yu, 2017
 . [https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning /Deep Learning in a Nutshell: Reinforcement Learning/]
 
+== Multi-Armed Bandit
+. [https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html /The Multi-Armed Bandit Problem and Its Solutions/]
+
 == Reinforcement Learning
 . [https://zhuanlan.zhihu.com/p/25498081 /Markov Decision Process/]
 . [https://zhuanlan.zhihu.com/p/25580624 /Model-based RL/]
