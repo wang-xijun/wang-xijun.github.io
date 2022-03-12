@@ -37,6 +37,7 @@ Q-Learning but with a Deep Neural Network as a function approximator
 . [https://www.nature.com/articles/nature14236, /Human-level control through deep reinforcement learning/], Nature, 2015
 . [https://github.com/deepmind/dqn /Torch implementation of Human-level control through deep reinforcement learning/], by deepmind
 . [https://github.com/devsisters/DQN-tensorflow /Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning/]
+. [https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/ /learning-rate-for-deep-learning-neural-networks/], by Jason Brownlee 
 
 == Multi-Agent RL
 . [https://zhuanlan.zhihu.com/p/39037444 /Note-1/], [https://zhuanlan.zhihu.com/p/43579796 /Note-2/]
